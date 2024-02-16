@@ -1,4 +1,4 @@
-Project Name ===> Make Heart With Python - 
+Project Name ===> Make Heart With Python - Version 1
 
 Program Name ===> Heart Version 1
 
